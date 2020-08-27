@@ -10,4 +10,5 @@ public interface CatalogService {
     public List<Catalog1>getCatalog1();
     public List<Catalog2> getCatalog2(Integer id);
     public List<Catalog3> getCatalog3(Long id);
+
 }
